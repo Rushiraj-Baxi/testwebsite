@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Rushiraj-Baxi.github.io/al-folio/sitemap.xml
+Sitemap: https://rushiraj-baxi.github.io/al-folio/sitemap.xml
